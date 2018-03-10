@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Title'/>
+        <page name='XNGPopularComponent'/>
+        <page name='Type Relationships Inheritance'/>
+        <page name='Inheritance'/>
+        <page name='Value vs Reference Types'/>
+        <page name='Type Relationships Protocol'/>
+        <page name='Type Relationships Protocol Self'/>
+        <page name='Type Relationships Protocol Extension'/>
+        <page name='Type Relationship Protocol dynamic type checking'/>
+        <page name='Testability'/>
+        <page name='Example MarkVisibleCellsAsSeen'/>
+        <page name='Example Vehicle + Person'/>
+    </pages>
+</playground>
